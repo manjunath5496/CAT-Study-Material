@@ -71,8 +71,7 @@
                            <li><b><a target="_blank" href="img/CAT70.pdf" style ="text-decoration:none;">Ultimate Aptitude Tests By Jim Barrett </a></b></li>
                             <li><b><a target="_blank" href="img/CAT71.pdf" style ="text-decoration:none;">Quantitative Aptitude Book </a></b></li>
                            <li><b><a target="_blank" href="img/CAT72.pdf" style ="text-decoration:none;">Quantitative Aptitude By Ramandeep Singh</a></b></li>
-						   <li><b><a target="_blank" href="img/CAT73.pdf" style ="text-decoration:none;">100 Shortcuts to Crack Quantitative Aptitude </a></b></li>
+						   <li><b><a target="_blank" href="img/CAT73.pdf" style ="text-decoration:none; color:black">100 Shortcuts to Crack Quantitative Aptitude </a></b></li>
 						
 						
-						
-						</ul>
+</ul>
