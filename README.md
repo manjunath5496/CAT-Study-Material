@@ -154,128 +154,144 @@
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT39.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-40. CAT 2006 With Answers </br>
+40. Current GK For MBA Entrance Exams </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT40.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 		
-41. CAT 2005 With Answers</br>
+41. CAT Complete Course By Dharmendra Mittal</br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT41.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-42. CAT 2004 With Answers </br>
+42. 150 CAT Verbal Practice Material </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT42.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-43. CAT 2002 With Answers </br>
+43. Math Formulas and Fundas − Handa Ka Funda </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT43.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-44. CAT 2003 With Answers </br>
+44. CAT Exam Tips </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT44.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 
 
-45. CAT 2000 With Answers</br>
+45. Combinatorics</br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT45.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-46. CAT 2001 With Answers </br>
+46. Pick My Coaching CAT Study Material </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT46.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-47. CAT 1999 With Answers </br>
+47. Reading Comprehension </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT47.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-48. CAT 1998 With Answers </br>
+48. Strategies By CAT 100 Percentilers </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT48.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 		
 		
-49. CAT 1997 With Answers</br>
+49. One Word Substitutions</br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT49.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-50. CAT 1996 With Answers </br>
+50. 200+ Data Interpretation Sets </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT50.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-51. CAT 1990 With Answers </br>
+51. CAT Verbal Preparation Basic Test 02 </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT51.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-52. Quantitative Aptitude for CAT By Arun Sharma </br>
+52. 500 Word List of Synonyms and Antonyms </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT52.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 
 
-53. GMAT CAT Critical Reasoning</br>
+53. Quantitative Reasoning</br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT53.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-54. How to Prepare For Quantitative Aptitude For the CAT By Arun Sharma</br>
+54. Verbal Reasoning</br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT54.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-55. Logical Reasoning CAT Questions For Practice </br>
+55. Vedic Mathematics </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT55.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-56. Verbal Ability and Reading Comprehension For CAT By Arun Sharma </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT56.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+56. CAT Complete Study Material </br>
+                <a href="https://drive.google.com/file/d/1EFsFPEjR1XjVPBoWipG-k723xdfEcVBO/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 		
 
-57. Word Power Made Easy By Norman Lewis</br>
+57. Test Your Logic By George J. Summers</br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT57.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-58. The Pearson Guide To Quantitative Aptitude And Data Interpretation For The CAT </br>
+58. IIFT and XAT GK Compendium (2016−17) </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT58.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-59. A Modern Approach to Verbal and Non-Verbal Reasoning By R.S. Aggarwal </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT59.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+59. Quantum CAT By Sarvesh Kumar Verma </br>
+                <a href="https://drive.google.com/file/d/1llZ1YTMcKj89nCkR-GTYoX8hSqMZpOqw/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-60. Geometry and Mensuration By Rahul Raj </br>
+60. CMAT Study Material </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT60.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 
 
-61. Magical Book On Quicker Maths By M. Tyra</br>
+61. Mahendra's Master In Quantitative Aptitude Vol I</br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT61.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-62. Monthly GK Digest March 2017 </br>
+62. Mahendra's Master In Quantitative Aptitude Vol II </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT62.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-63. One Stop MBA CAT 2007 Question Paper </br>
+63. Master In Reasoning Ability Vol I </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT63.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
-64. GRE" CAT Answers to the Real Essay Questions By Mark Alan Stewart </br>
+64. Objective English By Hari Mohan Prasad </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT64.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>		
 		
 		
+65. Quantitative Aptitude Chapterwise</br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT65.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+66. General English Grammar By Dr. Ramphal Nain </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT66.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+67. CSAT − Compendium General English </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT67.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+68. CSAT − Data Interpretation and Sufficiency </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT68.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+
+
+69. CSAT − Logical Reasoning and Analytical Ability</br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT69.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+70. Ultimate Aptitude Tests By Jim Barrett </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT70.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+71. Quantitative Aptitude Book </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT71.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+72. Quantitative Aptitude By Ramandeep Singh </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT72.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>		
 		
+73. 100 Shortcuts to Crack Quantitative Aptitude </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT73.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>		
+		
+		
+			
+		
+				
 		
 		
 			
