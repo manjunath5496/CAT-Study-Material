@@ -239,19 +239,19 @@
 
 
 61. Mahendra's Master In Quantitative Aptitude Vol I</br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT61.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+                <a href="https://drive.google.com/file/d/10f_4_jOD33pfR6oQDyDoV6xybD8xLJ8k/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
 62. Mahendra's Master In Quantitative Aptitude Vol II </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT62.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+                <a href="https://drive.google.com/file/d/1AM3jfCKWgQhrooUQImhQvzYAzU5uDfx3/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
 63. Master In Reasoning Ability Vol I </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT63.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+                <a href="https://drive.google.com/file/d/18gSRzqGDQUs5PmVLI7FOh7eiOFDU11VQ/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
 				
 64. Objective English By Hari Mohan Prasad </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT64.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>		
+                <a href="https://drive.google.com/file/d/1Hu08zK03Rlq1BgbmSw2FB61uuq1rVicm/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>		
 		
 		
 65. Quantitative Aptitude Chapterwise</br>
