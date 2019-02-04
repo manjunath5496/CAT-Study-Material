@@ -29,11 +29,6 @@
  8. CAT 2006 With Answers </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 		
-
-
-
-
-
 9. CAT 2005 With Answers</br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
 				
@@ -67,8 +62,77 @@
 				
 		
 		
+17. CAT 1997 With Answers</br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT17.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+18. CAT 1996 With Answers </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT18.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+19. CAT 1990 With Answers </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT19.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+20. Quantitative Aptitude for CAT By Arun Sharma </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT20.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+
+
+21. GMAT CAT Critical Reasoning</br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT21.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+22. How to Prepare For Quantitative Aptitude For the CAT By Arun Sharma</br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT22.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+23. Logical Reasoning CAT Questions For Practice </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT23.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+24. Verbal Ability and Reading Comprehension For CAT By Arun Sharma </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT24.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+		
+
+25. Word Power Made Easy By Norman Lewis</br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+26. The Pearson Guide To Quantitative Aptitude And Data Interpretation For The CAT </br>
+                <a href="https://drive.google.com/file/d/1m8TqONR5GqBoMuRXaEl25XbcC2SWbGcj/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+27. A Modern Approach to Verbal and Non-Verbal Reasoning By R.S. Aggarwal </br>
+                <a href="https://drive.google.com/file/d/1e8X9ObgAUe7sBF-dOXLRwq979b4Qbhf-/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+28. Geometry and Mensuration By Rahul Raj </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT28.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+
+
+29. Magical Book On Quicker Maths By M. Tyra</br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT29.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+30. Monthly GK Digest March 2017 </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT30.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+31. One Stop MBA CAT 2007 Question Paper </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT31.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
+				
+32. GRE" CAT Answers to the Real Essay Questions By Mark Alan Stewart </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT32.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+				
 		
 		
+		
+		
+		
+		
+		
+			
 		
 		
 		
