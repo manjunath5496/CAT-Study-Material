@@ -291,12 +291,29 @@
 74. Basic Calculations </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT74.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
 		
+75. Quantative Aptitude By Nishit K. Sinha </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT75.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
+76. English for General Competitions: From Plinth to Paramount  </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT76.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
 		
+77. Number Series  </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT77.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
+78. How To Prepare For Data Interpretation and Logical Reasoning For CAT By Arun Sharma  </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT78.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
-		
-		
-		
+79. How To Prepare For Data Interpretation and Logical Reasoning For CAT By Arun Sharma  </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT78.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 		
 		
