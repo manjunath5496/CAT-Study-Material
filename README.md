@@ -286,5 +286,17 @@
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT72.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 73. 100 Shortcuts to Crack Quantitative Aptitude </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT73.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT73.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+		
+74. Basic Calculations </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT74.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
