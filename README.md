@@ -321,7 +321,7 @@
 84. Complete CAT Study Material </br>
                 <a href="https://drive.google.com/file/d/1jd0m1keoi5_X-46ZMv3BziVZlvsT5KnZ/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
 	
-85. Learn Maths and Reasoning from S K RAJU   </br>
+85. Learn Maths and Reasoning By S. K. RAJU   </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT85.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 86. 536 Curious Problems and Puzzles   </br>
