@@ -340,7 +340,7 @@
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT90.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
 		
 91. Pearson Guide to Quantitative Aptitude for Competitive Examinations   </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT91.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+                <a href="https://drive.google.com/file/d/1PSLReW3-cKumzjJ_bu27keCreFj-r_tN/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 92. 200 Important Quantitative Aptitude Questions   </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT92.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
