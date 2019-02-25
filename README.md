@@ -325,4 +325,26 @@
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT85.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 86. 536 Curious Problems and Puzzles   </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT86.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT86.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+		
+87. 250+ first hand interview experiences that you cannot afford to miss </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT87.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
+	
+88. GD Topics Handbook 2014&minus;15   </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT88.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+89. 100 commonly confused word sets with meanings   </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT89.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+90. 84 instant tips towards perfecting grammar   </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT90.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
