@@ -339,9 +339,14 @@
 90. 84 instant tips towards perfecting grammar   </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT90.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
 		
+91. Pearson Guide to Quantitative Aptitude for Competitive Examinations   </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT91.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
+92. 200 Important Quantitative Aptitude Questions   </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT92.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
-		
+93. Shortcuts in Quantitative Aptitude Competitive Exams   </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT93.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 		
 		
