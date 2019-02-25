@@ -303,16 +303,26 @@
 78. How To Prepare For Data Interpretation and Logical Reasoning For CAT By Arun Sharma  </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT78.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+79. CMAT GK Series   </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT79.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
+80. CMAT LR Series </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT80.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
+81. Maths Handbook Quick Review   </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT81.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+82. More Puzzles By Shakuntala Devi </br>
+                <a href="https://drive.google.com/file/d/1anLuqHpTpXaygCaH_7rLwG50EsdIq0jD/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+	
+83. Barron's SAT I Basic Word List   </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT83.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+84. Complete CAT Study Material </br>
+                <a href="https://drive.google.com/file/d/1jd0m1keoi5_X-46ZMv3BziVZlvsT5KnZ/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
+	
+85. Learn Maths and Reasoning from S K RAJU   </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT85.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+86. 536 Curious Problems and Puzzles   </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT86.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
