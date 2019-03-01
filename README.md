@@ -95,7 +95,7 @@
 		
 
 25. Word Power Made Easy By Norman Lewis</br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT25.PDF" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
 26. The Pearson Guide To Quantitative Aptitude And Data Interpretation For The CAT </br>
