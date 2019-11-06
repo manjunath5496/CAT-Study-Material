@@ -239,7 +239,7 @@
 
 
 61. Mahendra's Master In Quantitative Aptitude Vol I</br>
-                <a href="https://drive.google.com/file/d/10f_4_jOD33pfR6oQDyDoV6xybD8xLJ8k/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Mahendra-s-Master-In-Quantitative-Aptitude-Vol-I" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
 62. Mahendra's Master In Quantitative Aptitude Vol II </br>
