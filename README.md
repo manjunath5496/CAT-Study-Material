@@ -251,7 +251,7 @@
 				
 				
 64. Objective English By Hari Mohan Prasad </br>
-                <a href="https://drive.google.com/file/d/1Hu08zK03Rlq1BgbmSw2FB61uuq1rVicm/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT64.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 		
 65. Quantitative Aptitude Chapterwise</br>
