@@ -218,8 +218,8 @@
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT55.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-56. CAT Complete Study Material </br>
-                <a href="https://drive.google.com/file/d/1EFsFPEjR1XjVPBoWipG-k723xdfEcVBO/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+56. 101 Puzzles in Thought and Logic  </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/XCAT(1).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 		
 
 57. Test Your Logic By George J. Summers</br>
@@ -347,6 +347,22 @@
 		
 93. Shortcuts in Quantitative Aptitude For Competitive Exams   </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT93.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+94. Brain Teasers: 211 Logic Puzzles, Lateral Thinking Games, Mondrians, Memorization Games, and Cryptomath Problems to Exercise Your Mind and Keep You Sharp 'til You're 100  </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/XCAT(2).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
+		
+95. Figuring: The Joy of Numbers  </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/XCAT(3).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+96. Mathability: Awaken the Math Genius in Your Child </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/XCAT(4).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+		
+97. Math Tricks, Brain Twisters, and Puzzles  </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/XCAT(5).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+98. Pozzies to Puzzle You </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/XCAT(6).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
+		
 		
 		
 		
