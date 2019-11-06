@@ -231,7 +231,7 @@
 				
 				
 59. Quantum CAT By Sarvesh Kumar Verma </br>
-                <a href="https://drive.google.com/file/d/1llZ1YTMcKj89nCkR-GTYoX8hSqMZpOqw/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Quantum-CAT-By-Sarvesh-Kumar-Verma" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
 60. CMAT Study Material </br>
