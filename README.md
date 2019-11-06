@@ -313,7 +313,7 @@
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT81.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 82. More Puzzles By Shakuntala Devi </br>
-                <a href="https://drive.google.com/file/d/1anLuqHpTpXaygCaH_7rLwG50EsdIq0jD/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT82.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 	
 83. Barron's SAT I Basic Word List   </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT83.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
