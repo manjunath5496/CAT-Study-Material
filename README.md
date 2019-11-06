@@ -247,7 +247,7 @@
 				
 				
 63. Master In Reasoning Ability Vol I </br>
-                <a href="https://drive.google.com/file/d/18gSRzqGDQUs5PmVLI7FOh7eiOFDU11VQ/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Master-In-Reasoning-Ability-Vol-I" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
 64. Objective English By Hari Mohan Prasad </br>
