@@ -103,7 +103,7 @@
 				
 				
 27. A Modern Approach to Verbal and Non-Verbal Reasoning By R.S. Aggarwal </br>
-                <a href="https://drive.google.com/file/d/1e8X9ObgAUe7sBF-dOXLRwq979b4Qbhf-/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/A-Modern-Approach-to-Verbal-and-Non-Verbal-Reasoning-By-R-S-Aggarwal" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
 28. Geometry and Mensuration By Rahul Raj </br>
