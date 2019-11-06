@@ -360,7 +360,7 @@
 97. Math Tricks, Brain Twisters, and Puzzles  </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/XCAT(5).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
-98. Pozzies to Puzzle You </br>
+98. Puzzles to Puzzle You </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/XCAT(6).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
 		
 		
