@@ -99,7 +99,7 @@
 				
 				
 26. The Pearson Guide To Quantitative Aptitude And Data Interpretation For The CAT </br>
-                <a href="https://drive.google.com/file/d/1m8TqONR5GqBoMuRXaEl25XbcC2SWbGcj/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/The-Pearson-Guide-To-Quantitative-Aptitude-And-Data-Interpretation-For-The-CAT-Book" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
 27. A Modern Approach to Verbal and Non-Verbal Reasoning By R.S. Aggarwal </br>
