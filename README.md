@@ -1,3 +1,216 @@
+<h2>Common Admission Test </h2>
+
+<table class="infobox vevent">
+<tbody>
+<tr>
+<th scope="row">Acronym</th>
+<td>CAT</td>
+</tr>
+<tr>
+<th scope="row">Type</th>
+<td>Computer-based standardized test</td>
+</tr>
+<tr>
+<th scope="row">Developer / administrator</th>
+<td><a title="Indian Institutes of Management" href="https://en.wikipedia.org/wiki/Indian_Institutes_of_Management">Indian Institutes of Management</a></td>
+</tr>
+<tr>
+<th scope="row">Knowledge / skills tested</th>
+<td>Quantitative Aptitude, Data Interpretation and Logical Reasoning, Verbal Ability and Reading Comprehension</td>
+</tr>
+<tr>
+<th scope="row">Purpose</th>
+<td>Admission to post-graduate management programs</td>
+</tr>
+<tr>
+<th scope="row">Duration</th>
+<td>3 hours</td>
+</tr>
+<tr>
+<th scope="row">Score / grade range</th>
+<td>-100 to 300</td>
+</tr>
+<tr>
+<th scope="row">Score / grade validity</th>
+<td>1 year</td>
+</tr>
+<tr>
+<th scope="row">Offered</th>
+<td>Once a year (usually in November/December).</td>
+</tr>
+<tr>
+<th scope="row">Countries / regions</th>
+<td>354 centres in 99 cities and towns all over&nbsp;<a title="India" href="https://en.wikipedia.org/wiki/India">India</a>.</td>
+</tr>
+<tr>
+<th scope="row">Languages</th>
+<td><a title="English language" href="https://en.wikipedia.org/wiki/English_language">English</a></td>
+</tr>
+<tr>
+<th scope="row">Annual number of test takers</th>
+<td>&nbsp;244,000 in 2019</td>
+</tr>
+<tr>
+<th scope="row">Prerequisites / eligibility criteria</th>
+<td>Bachelor's degree (or equivalent) with at least 50&nbsp;% marks or equivalent GPA (45&nbsp;% in case of SC, ST, PWD candidates). Final year undergraduate students also eligible</td>
+</tr>
+<tr>
+<th scope="row">Fee</th>
+<td><span class="nowrap">₹1,900</span>&nbsp;(US$27) for general category candidates.<sup id="cite_ref-1" class="reference"></sup><br /><span class="nowrap">₹900</span>&nbsp;(US$13) for SC / ST / DA (PWD) category candidates</td>
+</tr>
+<tr>
+<th scope="row">Scores / grades used by</th>
+<td>Various business schools in India</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="https://iimcat.ac.in/" rel="nofollow">iimcat<wbr />.ac<wbr />.in</a></span></td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>The&nbsp;<strong>Common Admission Test</strong>&nbsp;(<strong>CAT</strong>)<sup id="cite_ref-2" class="reference"></sup>&nbsp;is a&nbsp;<a class="mw-redirect" title="Computer based test" href="https://en.wikipedia.org/wiki/Computer_based_test">computer based test</a>&nbsp;for admission in a graduate management program. The test consists of three sections Verbal Ability and Reading Comprehension (VARC), Data Interpretation and Logical Reasoning (DILR) and Quantitative Ability (QA). Overall it&rsquo;s a three hour online exam divided into one hour each section. The&nbsp;<a title="Indian Institutes of Management" href="https://en.wikipedia.org/wiki/Indian_Institutes_of_Management">Indian Institutes of Management</a>&nbsp;(IIMs) started this exam and use the test for selecting students for their business administration programs (MBA or PGDM). The test is conducted every year by one of the IIMs based on a policy of rotation.</p>
+<p>In August 2011, it is announced that&nbsp;<a title="Indian Institutes of Technology" href="https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology">Indian Institutes of Technology</a>&nbsp;(IITs) and&nbsp;<a title="Indian Institute of Science" href="https://en.wikipedia.org/wiki/Indian_Institute_of_Science">Indian Institute of Science</a>&nbsp;(IISc) would also use the CAT scores, instead of the&nbsp;<a title="Joint Management Entrance Test" href="https://en.wikipedia.org/wiki/Joint_Management_Entrance_Test">Joint Management Entrance Test</a>&nbsp;(JMET), to select students for their management programmes starting with the 2012-15 batch.<sup id="cite_ref-3" class="reference"></sup></p>
+<p>&nbsp;</p>
+<p>Before 2009, CAT was a paper based test conducted on a single day for all candidates. The pattern, number of questions and duration have seen considerable variations over the years.</p>
+<p>On 1 May 2009, it was announced that CAT would be a&nbsp;<a class="mw-redirect" title="Computer Based Test" href="https://en.wikipedia.org/wiki/Computer_Based_Test">Computer Based Test</a>&nbsp;starting from 2009. The American firm&nbsp;<a title="Prometric" href="https://en.wikipedia.org/wiki/Prometric">Prometric</a>&nbsp;was entrusted with the responsibility of conducting the test from 2009 to 2013.<sup id="cite_ref-4" class="reference"></sup>&nbsp;The first computer based CAT was marred with technical snags.<sup id="cite_ref-5" class="reference"></sup>&nbsp;The issue was so serious that it prompted the Government of India to seek a report from the convenor.<sup id="cite_ref-6" class="reference"></sup>&nbsp;The trouble was diagnosed as '<a title="Conficker" href="https://en.wikipedia.org/wiki/Conficker">Conficker</a>' and&nbsp;<a title="Nimda" href="https://en.wikipedia.org/wiki/Nimda">'W32 Nimda'</a>, the two&nbsp;<a title="Computer virus" href="https://en.wikipedia.org/wiki/Computer_virus">viruses</a>&nbsp;that attacked the system display of the test, causing server slow down.<sup id="cite_ref-7" class="reference"></sup>&nbsp;Since 2014 onward, CAT has been conducted by&nbsp;<a title="Tata Consultancy Services" href="https://en.wikipedia.org/wiki/Tata_Consultancy_Services">Tata Consultancy Services (TCS)</a>. CAT 2015 and CAT 2016 were 180-minute tests consisting of 100 questions (34 from Quantitative Ability (QA), 34 from Verbal Ability and Reading Comprehension (VARC), and 32 from Data Interpretation and Logical Reasoning (DILR)).<sup id="cite_ref-8" class="reference"></sup></p>
+<h3 class="toc">&nbsp;</h3>
+<h3 class="toc">Contents</h3>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Eligibility_for_CAT"><span class="toctext">Eligibility for CAT</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Exam_pattern"><span class="toctext">Exam pattern</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Test_pattern_and_duration"><span class="toctext">Test pattern and duration</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><span class="toctext"><a href="#CAT_registrations_in_numbers_over_the_years">CAT registrations in numbers over the years</a></span></li>
+</ul>
+<p>&nbsp;</p>
+<h2><span id="Eligibility_for_CAT" class="mw-headline">Eligibility for CAT</span></h2>
+<p>The candidate must satisfy the below specified criteria:<sup id="cite_ref-9" class="reference"></sup></p>
+<ol>
+<li>Hold a&nbsp;<a title="Bachelor's degree" href="https://en.wikipedia.org/wiki/Bachelor%27s_degree">bachelor's degree</a>, with no less than 50% or equal CGPA (45% for Scheduled Caste (SC), Scheduled Tribe (ST) and Persons with Disability (PWD)/Differently Able (DA) classification)</li>
+<li>The degree should be granted by any of the universities consolidated by an act of the central or state statutory body in India or other instructive organizations built up by an act of Parliament or pronounced to be considered as a university under Section 3 of the UGC Act, 1956, or possess an equivalent qualification recognized by the Ministry of HRD, Government of India.</li>
+<li>Competitors appearing for the final year of bachelor's degree/equivalent qualification examination and the individuals who have finished degree prerequisites and are anticipating results can likewise apply. If selected, such applicants will be permitted to join the program temporarily, only if they present a certificate most recent by June 30, 2020, from the principal/registrar of their college/institute (issued at the latest June 30, 2020) expressing that the competitor has finished every one of the prerequisites for acquiring four-year or three-year college education/identical capability on the date of the issue of the certificate.</li>
+</ol>
+<h2><span id="Exam_pattern" class="mw-headline">Exam pattern</span></h2>
+<p>The Common Admission Test (CAT), like virtually all large-scale exams, utilises multiple forms, or versions, of the test. Hence there are two types of scores involved: a&nbsp;<a class="mw-redirect" title="Raw score" href="https://en.wikipedia.org/wiki/Raw_score">raw score</a>&nbsp;and a scaled score.</p>
+<p>The raw score is calculated for each section based on the number of questions one answered correctly, incorrectly, or left unattempted. Candidates are given +3 points for each correct answer and -1 point for each incorrect answer. No points are given for questions that are not answered. The raw scores are then adjusted through a process called equating. Equated raw scores are then placed on a common scale or metric to ensure appropriate interpretation of the scores. This process is called scaling.</p>
+<p>The change in the total number of questions and number of questions per section in cat merely happens, on a broader perspective there are 100 number of questions combining each section. The very first section which is the verbal ability and reading comprehension (VARC) contains 34 questions, further bifurcating 24 questions of reading comprehension and 10 questions of verbal ability, then next section is of data interpretation and logical reasoning (DILR) which contains 32 questions and the last section is of quantitative ability (QA) which contains 34 questions making it to 100 questions in total.</p>
+<p>CAT is conducted in two sessions.</p>
+<h3><span id="Test_pattern_and_duration" class="mw-headline">Test pattern and duration</span></h3>
+<p>CAT exact exam pattern changes every year. For CAT 2018, a mock test was supplied.<sup id="cite_ref-10" class="reference"></sup></p>
+<p>CAT is a computer-based test which consists of 3 sections:</p>
+<ul>
+<li>Verbal and Reading Comprehension (VARC)</li>
+<li>Data Interpretation &amp; Logical Reasoning (DI &amp; LR)</li>
+<li>Quantitative Ability (QA)</li>
+</ul>
+<p>The Quantitative Ability and Verbal &amp; Reading Comprehension sections consisted 34 questions each, whereas the Data Interpretation &amp; Logical Reasoning section had 32 questions. This distribution of questions was same since CAT 2015. Before this, the distribution of questions was different.</p>
+<h2><span id="CAT_registrations_in_numbers_over_the_years" class="mw-headline">CAT registrations in numbers over the years</span></h2>
+<p>The number of registrations in the past years are shown in the following chart:</p>
+<table class="BarChartTemplate" cellpadding="1"><caption>Number of registrations in CAT over the years<sup id="cite_ref-11" class="reference"></sup></caption>
+<tbody>
+<tr>
+<th scope="col">Year</th>
+<th scope="col">Approximate number of registrations</th>
+</tr>
+<tr>
+<th scope="row">2017<sup id="cite_ref-12" class="reference"></sup></th>
+<td>
+<div>
+<div>&nbsp;</div>
+<span class="nowrap">231,000</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row">2016</th>
+<td>
+<div>
+<div>&nbsp;</div>
+<span class="nowrap">232,434</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row">2015</th>
+<td>
+<div>
+<div>&nbsp;</div>
+<span class="nowrap">218,664</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row">2014</th>
+<td>
+<div>
+<div>&nbsp;</div>
+<span class="nowrap">196,988</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row">2013</th>
+<td>
+<div>
+<div>&nbsp;</div>
+<span class="nowrap">194,516</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row">2012</th>
+<td>
+<div>
+<div>&nbsp;</div>
+<span class="nowrap">214,000</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row">2011</th>
+<td>
+<div>
+<div>&nbsp;</div>
+<span class="nowrap">205,000</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row">2010</th>
+<td>
+<div>
+<div>&nbsp;</div>
+<span class="nowrap">204,000</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row">2009</th>
+<td>
+<div>
+<div>&nbsp;</div>
+<span class="nowrap">241,000</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row">2008</th>
+<td>
+<div>
+<div>&nbsp;</div>
+<span class="nowrap">290,000</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row">2007</th>
+<td>
+<div>
+<div>&nbsp;</div>
+<span class="nowrap">250,000</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+<h2> Books </h2>
+
+
 1. CAT 2018 Slot 1 With Answers</br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
