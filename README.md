@@ -344,7 +344,7 @@
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT33.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-34. A Modern Approach to Verbal Reasoning (Fully Solved) By R.S. Aggarwal </br>
+34. Fuzzy Mathematics </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT34.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
