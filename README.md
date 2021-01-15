@@ -577,9 +577,21 @@
 98. Puzzles to Puzzle You </br>
                 <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/XCAT(6).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
 		
+99. From Clerks to Corpora: essays on the English language yesterday and today  </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/ak(1).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
+100. Dictionary of the British English Spelling System </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/ak(2).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 		
+101. Approaches to English for Specific and Academic Purposes  </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/ak(3).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
+102. Spatial Cognition And The Semantics Of Prepositions In English, Polish, And Russian </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/ak(4).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
+103. Gemination and degemination in English affixation </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/ak(5).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
+104. The semantic transparency of English compound nouns </br>
+                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/ak(6).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
