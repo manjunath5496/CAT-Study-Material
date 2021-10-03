@@ -56,7 +56,7 @@
 </tr>
 <tr>
 <th scope="row">Fee</th>
-<td><span class="nowrap">₹1,900</span>&nbsp;(US$27) for general category candidates.<sup id="cite_ref-1" class="reference"></sup><br /><span class="nowrap">₹900</span>&nbsp;(US$13) for SC / ST / DA (PWD) category candidates</td>
+<td><span class="nowrap">₹2,200</span>&nbsp;(US$31) for general category candidates.<sup id="cite_ref-1" class="reference"></sup><br /><span class="nowrap">₹1,100</span>&nbsp;(US$15) for SC / ST / DA (PWD) category candidates</td>
 </tr>
 <tr>
 <th scope="row">Scores / grades used by</th>
